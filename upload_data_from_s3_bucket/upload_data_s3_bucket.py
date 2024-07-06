@@ -48,7 +48,7 @@ s3_service = boto3.client(
     region_name = region_name
 )
 
-bucket_name = "ksadpaeactbuudtlo"
+bucket_name = "akaz-upload-csv-test-bucket"
 local_file_path = "data/data_sales.csv"
 file_cloud_name = "input/data_sales.csv"
 

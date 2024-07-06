@@ -21,3 +21,5 @@ Os dados utilizados estão disponibilizados na plataforma Kaggle, na URL: https:
 A documentação da biblioteca Boto3 pode ser encontrada em: https://boto3.amazonaws.com/v1/documentation/api/latest/index.html
 
 O código pode ser encontrado em meu repositório do GitHub: https://github.com/AkazMarinho/aws-cloud-computing
+
+## Parte 02
